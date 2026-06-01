@@ -1,7 +1,7 @@
 # jc
 
 > 여러 명령어의 출력을 JSON으로 변환.
-> 더 많은 정보: <https://github.com/kellyjonbrazil/jc>.
+> 더 많은 정보: <https://github.com/kellyjonbrazil/jc#usage>.
 
 - 파이프를 통해 명령어 출력을 JSON으로 변환:
 
